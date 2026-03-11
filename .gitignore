@@ -17,13 +17,18 @@ dist/
 pip-wheel-metadata/
 
 # Virtual environments
-NLPenv/
 venv/
 env/
 .venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Conda environments
+.conda/
+conda-meta/
+envs/
+*.conda
 
 # Python bytecode
 *.pyc

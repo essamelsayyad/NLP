@@ -1,7 +1,9 @@
-pandas
 numpy
+pandas
 nltk
-spacy
 scikit-learn
-matplotlib
-seaborn
+gensim
+
+
+
+
