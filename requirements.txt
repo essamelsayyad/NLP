@@ -3,7 +3,13 @@ pandas
 nltk
 scikit-learn
 gensim
+matplotlib
 
+nltk
+pyspellchecker
+contractions
+names-dataset==2.1
+# For unit test
+unittest-xml-reporting
 
-
-
+text-preprocessing
