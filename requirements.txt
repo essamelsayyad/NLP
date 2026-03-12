@@ -13,3 +13,4 @@ names-dataset==2.1
 unittest-xml-reporting
 
 text-preprocessing
+beautifulsoup4
